@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivian</h1>
-<h3 align="center">A passionate data scientist studying at the University of California, San Diego.</h3>
+<h3 align="center">I am a second year student studying data science at the University of California, San Diego.</h3>
 
 - 🌱 I’m currently learning **SQL, AWS, and PyTorch.**
 
